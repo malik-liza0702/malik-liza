@@ -25,5 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malik-liza&show_icons=true&locale=en&layout=compact" alt="malik-liza" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malik-liza&show_icons=true&locale=en" alt="malik-liza" /></p>
+
 
