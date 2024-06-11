@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Liza Malik</h1>
 <h3 align="center">MERN Stack Developer,Java DSA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malik-liza&label=Profile%20views&color=0e75b6&style=flat" alt="malik-liza" /> </p>
+<img src="https://www.google.com/imgres?q=github%20profile%20gif&imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F462900780%2F0a10af70-6cbf-46df-9071-0ff586a3b1d6&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&docid=xT3pU1tmgPb2_M&tbnid=e9hPImsTmTzH1M&vet=12ahUKEwjakaLkuNOGAxWUamwGHVcpAT8QM3oECBMQAA..i&w=480&h=270&hcb=2&ved=2ahUKEwjakaLkuNOGAxWUamwGHVcpAT8QM3oECBMQAA">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malik-liza" alt="malik-liza" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=malik-liza&label=Profile%20views&color=0e75b6&style=flat" alt="malik-liza" /> </p>
 
 - 🔭 I’m currently working on **my projects and enhancing my development skills.**
 
@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malik-liza&show_icons=true&locale=en" alt="malik-liza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malik-liza&" alt="malik-liza" /></p>
