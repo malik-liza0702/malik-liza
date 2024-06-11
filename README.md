@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liza Malik</h1>
 <h3 align="center">MERN Stack Developer,Java DSA</h3>
 
-<img src="banner2.gif">
+<img src="banner2.gif" alt="banner">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malik-liza&label=Profile%20views&color=0e75b6&style=flat" alt="malik-liza" /> </p>
 
