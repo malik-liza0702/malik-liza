@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liza Malik</h1>
 <h3 align="center">MERN Stack Developer,Java DSA</h3>
 
-<img src="https://www.google.com/imgres?q=github%20profile%20gif&imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F462900780%2F0a10af70-6cbf-46df-9071-0ff586a3b1d6&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&docid=xT3pU1tmgPb2_M&tbnid=e9hPImsTmTzH1M&vet=12ahUKEwjakaLkuNOGAxWUamwGHVcpAT8QM3oECBMQAA..i&w=480&h=270&hcb=2&ved=2ahUKEwjakaLkuNOGAxWUamwGHVcpAT8QM3oECBMQAA">
+<img src="banner2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malik-liza&label=Profile%20views&color=0e75b6&style=flat" alt="malik-liza" /> </p>
 
