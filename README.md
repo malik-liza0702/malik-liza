@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Liza Malik</h1>
-<h3 align="center">MERN Stack Developer,Java DSA</h3>
+<h3 align="center">MERN-Stack-JAVA-DSA</h3>
 
 <img src="banner2.gif" alt="banner">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malik-liza&label=Profile%20views&color=0e75b6&style=flat" alt="malik-liza" /> </p>
 
-- 🔭 I’m currently working on **my projects and enhancing my development skills.**
+- 🔭 I’m currently working on **my problem solving skills**
 
 - 🌱 I’m currently learning **full stack web development.**
 
-- 👯 I’m looking to collaborate on **multiple projects.**
+- 👯 I’m looking to collaborate **and participate in hackathons and contests.**
 
 - 📫 Connect with me on Linkedin **Liza Malik**
 
